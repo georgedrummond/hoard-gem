@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/georgedrummond/hoard-gem.svg)](https://travis-ci.org/georgedrummond/hoard-gem)
+
 # Hoard
 
 TODO: Write a gem description
