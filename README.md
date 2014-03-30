@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/georgedrummond/hoard-gem.svg)](https://travis-ci.org/georgedrummond/hoard-gem)
-
 # Hoard
+
+[![Build Status](https://travis-ci.org/georgedrummond/hoard-gem.svg)](https://travis-ci.org/georgedrummond/hoard-gem) [![Dependency Status](https://gemnasium.com/georgedrummond/hoard-gem.svg)](https://gemnasium.com/georgedrummond/hoard-gem)
+ [![Coverage Status](https://coveralls.io/repos/georgedrummond/hoard-gem/badge.png)](https://coveralls.io/r/georgedrummond/hoard-gem) [![Code Climate](https://codeclimate.com/github/georgedrummond/hoard-gem.png)](https://codeclimate.com/github/georgedrummond/hoard-gem) [![MIT](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/georgedrummond/hoard-gem/tree/master/LICENSE)
+
 
 TODO: Write a gem description
 
