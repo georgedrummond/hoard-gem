@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Hoard::VERSION
   spec.authors       = ["George Drummond"]
   spec.email         = ["georgedrummond@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Work in progress}
+  spec.summary       = %q{Work in progress}
   spec.homepage      = ""
   spec.license       = "MIT"
 
